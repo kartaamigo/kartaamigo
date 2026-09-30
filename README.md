@@ -63,11 +63,11 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 ## What I work with
 
 <p align="center">
-<img src="assets/photoshop.png" width="58" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
-<img src="assets/illustrator.png" width="58" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
-<img src="assets/indesign.png" width="58" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
-<img src="assets/lightroom.png" width="58" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
-<img src="assets/figma.png" width="58" alt="Figma" title="Figma"> &nbsp;
+<img src="assets/photoshop.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
+<img src="assets/illustrator.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
+<img src="assets/indesign.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
+<img src="assets/lightroom.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
+<img src="assets/figma-custom.svg" width="72" alt="Figma" title="Figma"> &nbsp;
 </p>
 
 <p align="center">Photoshop · Illustrator · InDesign · Lightroom · Figma</p>
