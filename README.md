@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/contact-behance.svg" width="144" height="36" alt="Behance — portfolio"></a>
-<a href="https://t.me/designerpooh"><img src="assets/contact-telegram.svg" width="144" height="36" alt="Telegram — contact @designerpooh"></a>
+<a href="https://t.me/designerpooh"><img src="assets/contact-telegram-logo.svg" width="144" height="36" alt="Telegram — contact @designerpooh"></a>
 <a href="https://t.me/soulamigo"><img src="assets/contact-channel.svg" width="144" height="36" alt="Telegram — my work @soulamigo"></a>
 <a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/contact-instagram.svg" width="144" height="36" alt="Instagram — @xgxsoul_kartaviyx"></a>
 <a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — photography @xkartaviyx_"></a>
