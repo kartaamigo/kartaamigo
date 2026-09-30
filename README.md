@@ -3,13 +3,24 @@
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
 <h1 align="center">Maria Matveeva</h1>
-<p align="center"><b>GRAPHIC DESIGNER · xSoulArt / KARTAVIY</b></p>
+<p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 
-## Hi, I'm Maria.
+<p align="center">
+<a href="https://www.behance.net/tuumiyurmirazh/projects"><img src="assets/contact-behance.svg" width="132" height="36" alt="View my Behance portfolio"></a>
+<a href="https://t.me/designeramigo"><img src="assets/contact-telegram.svg" width="132" height="36" alt="Message me on Telegram"></a>
+<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/contact-email.svg" width="132" height="36" alt="Email me"></a>
+</p>
 
-I'm a graphic designer working on visual identities, editorial layouts and digital graphics. I've been exploring graphic design since 2022, with a focus on composition, typography and color. I like visuals with character — and a clear purpose behind every detail.
+## Hi, I'm Maria 👋
 
-My experience includes product cards, posters, covers, social media graphics, and event and portrait photography. I work on personal and academic projects, keep up with design trends and continue developing my skills. I'm open to real-world projects, with the goal of growing as a designer and creating quality work.
+I'm a graphic and multidisciplinary designer, developing my practice since 2022. My interests span visual identity, editorial and digital design — from logos, posters and magazine layouts to the visual design of websites and apps. Photography is another part of my creative practice: I photograph events and portraits.
+
+I enjoy building a coherent visual language through composition, typography and color. I explore references, refine details and aim for design that is expressive, clear and useful. I keep developing my skills through personal and academic projects, and I'm open to collaborations and new creative challenges.
+
+- 🎨 **Creating:** visual identities, posters, covers and social media graphics.
+- 📷 **Behind the camera:** event and portrait photography.
+- 🌱 **Growing through:** personal and academic projects, new skills and design research.
+- ✉️ **Open to:** design projects and creative collaborations.
 
 [Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
 
