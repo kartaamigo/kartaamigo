@@ -2,11 +2,14 @@
 
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
+<h1 align="center">Maria Matveeva</h1>
+<p align="center"><b>GRAPHIC DESIGNER · xSoulArt / KARTAVIY</b></p>
+
 ## Hi, I'm Maria.
 
 I'm a graphic designer working on visual identities, editorial layouts and digital graphics. I've been exploring graphic design since 2022, with a focus on composition, typography and color. I like visuals with character — and a clear purpose behind every detail.
 
-My experience includes product cards, posters, covers, social media graphics, and event and portrait photography. I'm open to design projects and creative collaborations.
+My experience includes product cards, posters, covers, social media graphics, and event and portrait photography. I work on personal and academic projects, keep up with design trends and continue developing my skills. I'm open to real-world projects, with the goal of growing as a designer and creating quality work.
 
 [Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
 
@@ -43,12 +46,40 @@ My experience includes product cards, posters, covers, social media graphics, an
 
 ## What I work with
 
-**Tools** · Adobe Photoshop · Illustrator · InDesign · Lightroom · Figma
+<p align="center">
+<img src="assets/photoshop.png" width="58" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
+<img src="assets/illustrator.png" width="58" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
+<img src="assets/indesign.png" width="58" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
+<img src="assets/lightroom.png" width="58" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
+<img src="assets/figma.png" width="58" alt="Figma" title="Figma"> &nbsp;
+</p>
 
-**Focus** · Visual identity & logo design · Typography & layout · Posters & banners · Social media graphics · Color correction
+<p align="center">Photoshop · Illustrator · InDesign · Lightroom · Figma</p>
 
-<details>
-<summary><b>Experience & education</b></summary>
+### Design skills
+
+| Visual foundations | Creative practice |
+| :--- | :--- |
+| Composition & visual hierarchy | Reference research & moodboards |
+| Typography | Poster & banner design |
+| Color correction & color harmony | Visual identities & logos |
+| Layout & grid systems | Product cards, covers & social media graphics |
+
+### Soft skills
+
+- Creative thinking
+- Attention to detail
+- Openness to feedback and flexible thinking
+- Time management and responsibility
+- Fast learning
+
+### Languages
+
+**Russian** — Native  
+**English** — Basic
+
+
+## Experience & education
 
 ### Experience
 
@@ -59,9 +90,9 @@ My experience includes product cards, posters, covers, social media graphics, an
 ### Education
 
 **IT TOP Academy · Graphic Design · 2023–2025**  
-Composition, typography, color, visual identity and digital design.
+Composition, typography, color, visual identity and digital design. Practical work and contemporary design approaches.
 
-</details>
+
 
 ## Let's create something together
 
