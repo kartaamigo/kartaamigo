@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <title>Figma — pastel cloud illustration</title>
+  <g fill="#c6e9e2">
+    <circle cx="31" cy="47" r="18"/>
+    <circle cx="60" cy="36" r="22"/>
+    <circle cx="75" cy="59" r="19"/>
+    <circle cx="46" cy="66" r="20"/>
+    <circle cx="22" cy="54" r="12"/>
+  </g>
+  <g fill="none" stroke="#fffdf1" stroke-linecap="round">
+    <path d="M61 17h15m-8 3h13M13 43h17m-21 4h15M72 29h13"/>
+  </g>
+  <g stroke="#806957" stroke-width="1.1" stroke-linejoin="round">
+    <path d="M78 41c-1-5 6-7 9-3 5-1 7 4 4 7 3 1 2 5-1 5H74c-4 0-5-5-1-7 1-2 3-3 5-2Z" fill="#fff8e5"/>
+    <rect x="29" y="30" width="47" height="48" rx="8" fill="#e8d8ff"/>
+    <rect x="32" y="33" width="41" height="42" rx="6" fill="none" stroke="#fff8e5"/>
+  </g>
+  <g stroke="#806957" stroke-width=".85">
+    <path d="M52 39h-6a6 6 0 0 0 0 12h6Z" fill="#f4aeb7"/>
+    <path d="M52 39h6a6 6 0 0 1 0 12h-6Z" fill="#ffd29b"/>
+    <path d="M52 51h-6a6 6 0 0 0 0 12h6Z" fill="#c4b2ed"/>
+    <circle cx="58" cy="57" r="6" fill="#98d7ed"/>
+    <path d="M52 63h-6a6 6 0 1 0 6 6Z" fill="#a6debf"/>
+  </g>
+  <path d="M23 68c-3-5 4-9 8-5 4-3 9 0 8 4 5-2 9 2 7 6 4-1 6 4 3 5H24c-5 0-7-6-3-9l2-1Z" fill="#fff8e5" stroke="#806957" stroke-width="1.1" stroke-linejoin="round"/>
+</svg>
