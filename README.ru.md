@@ -63,10 +63,10 @@
 ## С чем работаю
 
 <p align="center">
-<img src="assets/photoshop.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
-<img src="assets/illustrator.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
-<img src="assets/indesign.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
-<img src="assets/lightroom.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
+<img src="assets/photoshop-pastel.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
+<img src="assets/illustrator-pastel.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
+<img src="assets/indesign-pastel.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
+<img src="assets/lightroom-pastel.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
 <img src="assets/figma-custom.svg" width="72" alt="Figma" title="Figma"> &nbsp;
 </p>
 
