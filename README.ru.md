@@ -1,28 +1,33 @@
-<img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — xSoulArt / KARTAVIY">
+<img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — SoulArt / KRTY">
 
 <p align="right"><a href="README.md">English</a> · <b>Русский</b></p>
 
-<h1 align="center">Мария Матвеева</h1>
+<h1 align="center">SoulArt / KRTY</h1>
 <p align="center"><b>ГРАФИЧЕСКИЙ | МУЛЬТИДИСЦИПЛИНАРНЫЙ ДИЗАЙНЕР</b></p>
 
 <p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh/projects"><img src="assets/contact-behance.svg" width="132" height="36" alt="View my Behance portfolio"></a>
-<a href="https://t.me/designeramigo"><img src="assets/contact-telegram.svg" width="132" height="36" alt="Message me on Telegram"></a>
-<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/contact-email.svg" width="132" height="36" alt="Email me"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/contact-behance.svg" width="144" height="36" alt="Behance — portfolio"></a>
+<a href="https://t.me/designerpooh"><img src="assets/contact-telegram.svg" width="144" height="36" alt="Telegram — contact @designerpooh"></a>
+<a href="https://t.me/soulamigo"><img src="assets/contact-channel.svg" width="144" height="36" alt="Telegram — my work @soulamigo"></a>
+<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/contact-instagram.svg" width="144" height="36" alt="Instagram — @xgxsoul_kartaviyx"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — photography @xkartaviyx_"></a>
 </p>
 
-## Привет, я Мария 👋
+## Приветствую, я SoulArt / KRTY 👋
 
-Я графический и мультидисциплинарный дизайнер, развиваюсь в дизайне с 2022 года. Работаю на пересечении айдентики, редакционного и digital-дизайна: от логотипов, постеров и журнальной вёрстки до визуального оформления сайтов и приложений. Фотография — ещё одна часть моей творческой практики: снимаю мероприятия и портреты.
+Я занимаюсь дизайном, создаю самые разные вещи и довожу каждый проект до действительно красивого результата. Если тебе нужен стильный, аккуратный и цепляющий визуал — ты по адресу.
 
-Мне нравится собирать целостный визуальный образ через композицию, типографику и цвет. Ищу идеи в референсах, продумываю детали и стремлюсь к тому, чтобы дизайн был выразительным, понятным и помогал решать конкретную задачу. Развиваю навыки в личных и учебных проектах, открыта к сотрудничеству и новым творческим задачам.
+· **Фотограф** — съёмка мероприятий и портретов.  
+· **Графический дизайнер** — постеры, обложки, карточки товаров и графика для соцсетей.  
+· **UI/UX** — визуальное оформление сайтов и приложений.  
+· **Айдентика** — логотипы и визуальный стиль.  
+· **Редакционный дизайн** — журнальная вёрстка, композиция и типографика.
 
-- 🎨 **Создаю:** айдентику, постеры, обложки и графику для соцсетей.
-- 📷 **Снимаю:** мероприятия и портреты.
-- 🌱 **Развиваюсь:** через личные и учебные проекты, новые навыки и изучение дизайна.
-- ✉️ **Открыта к:** дизайн-проектам и творческому сотрудничеству.
+В дизайне с 2022 года. Я из России, развиваю навыки через личные и учебные проекты и открыта к творческому сотрудничеству.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Почта](mailto:xghostxsoulx@gmail.com)
+**Связь со мной:** [@designerpooh](https://t.me/designerpooh)  
+**Мои работы в Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**TikTok с фотографиями:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 ## Избранные работы
 
@@ -109,8 +114,8 @@
 
 Нужна айдентика, оформление издания или визуальные материалы? Расскажи о своей задаче.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Почта](mailto:xghostxsoulx@gmail.com)
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designerpooh) · [Почта](mailto:xghostxsoulx@gmail.com)
 
 ---
 
-<p align="center"><i>Опыт приходит. Стиль уже со мной.</i></p>
+<p align="center"><i>Главное — живи! Не существуй ради оценок, зарплаты или одобрения. Живи так, чтобы каждый день, ложась спать, ты мог сказать: «Да, сегодня было круто!»</i></p>

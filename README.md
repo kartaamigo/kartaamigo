@@ -1,28 +1,33 @@
-<img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — xSoulArt / KARTAVIY">
+<img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — SoulArt / KRTY">
 
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
-<h1 align="center">Maria Matveeva</h1>
+<h1 align="center">SoulArt / KRTY</h1>
 <p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 
 <p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh/projects"><img src="assets/contact-behance.svg" width="132" height="36" alt="View my Behance portfolio"></a>
-<a href="https://t.me/designeramigo"><img src="assets/contact-telegram.svg" width="132" height="36" alt="Message me on Telegram"></a>
-<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/contact-email.svg" width="132" height="36" alt="Email me"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/contact-behance.svg" width="144" height="36" alt="Behance — portfolio"></a>
+<a href="https://t.me/designerpooh"><img src="assets/contact-telegram.svg" width="144" height="36" alt="Telegram — contact @designerpooh"></a>
+<a href="https://t.me/soulamigo"><img src="assets/contact-channel.svg" width="144" height="36" alt="Telegram — my work @soulamigo"></a>
+<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/contact-instagram.svg" width="144" height="36" alt="Instagram — @xgxsoul_kartaviyx"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — photography @xkartaviyx_"></a>
 </p>
 
-## Hi, I'm Maria 👋
+## Welcome, I'm SoulArt / KRTY 👋
 
-I'm a graphic and multidisciplinary designer, developing my practice since 2022. My interests span visual identity, editorial and digital design — from logos, posters and magazine layouts to the visual design of websites and apps. Photography is another part of my creative practice: I photograph events and portraits.
+I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
 
-I enjoy building a coherent visual language through composition, typography and color. I explore references, refine details and aim for design that is expressive, clear and useful. I keep developing my skills through personal and academic projects, and I'm open to collaborations and new creative challenges.
+· **Photographer** — events and portraits.  
+· **Graphic designer** — posters, covers, product cards and social media graphics.  
+· **UI/UX** — visual design for websites and apps.  
+· **Visual identity** — logos and brand visuals.  
+· **Editorial design** — magazine layouts, composition and typography.
 
-- 🎨 **Creating:** visual identities, posters, covers and social media graphics.
-- 📷 **Behind the camera:** event and portrait photography.
-- 🌱 **Growing through:** personal and academic projects, new skills and design research.
-- ✉️ **Open to:** design projects and creative collaborations.
+Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
+**Contact me:** [@designerpooh](https://t.me/designerpooh)  
+**My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 ## Selected work
 
@@ -109,8 +114,8 @@ Composition, typography, color, visual identity and digital design. Practical wo
 
 Have a brand, publication or visual project in mind? Tell me about it.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designerpooh) · [Email](mailto:xghostxsoulx@gmail.com)
 
 ---
 
-<p align="center"><i>Experience is growing. The style is already mine.</i></p>
+<p align="center"><i>Above all, live! Do not live only for grades, a salary or approval. Live so that every night you can say: “Yes, today was great!”</i></p>
