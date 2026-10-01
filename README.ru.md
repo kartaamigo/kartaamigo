@@ -1,3 +1,14 @@
+<p align="right"><b>Русский</b> · <a href="README.en.md">English</a></p>
+
+<p align="center"><a href="https://kartaamigo.github.io/"><b>↗ ОТКРЫТЬ ПОРТФОЛИО — ДИЗАЙН, ПРОЕКТЫ И RE: FORM</b></a></p>
+
+<a href="https://kartaamigo.github.io/"><img src="assets/portfolio-full.png" width="100%" alt="SoulArt / KRTY || Maria Matveeva — полное портфолио: работы, обо мне, направления, инструменты, навыки, опыт, авторская студия RE: FORM и контакты. Нажми, чтобы открыть интерактивный сайт."></a>
+
+<p align="center"><a href="https://kartaamigo.github.io/#projects">Работы</a> · <a href="https://kartaamigo.github.io/#team">RE: FORM</a> · <a href="https://kartaamigo.github.io/#contact">Связаться</a> · <a href="https://kartaamigo.github.io/index.en.html">English website</a></p>
+
+<details>
+<summary>Текстовая версия профиля, контакты и прямые ссылки на работы</summary>
+
 <img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — SoulArt / KRTY">
 
 <p align="right"><a href="README.md">English</a> · <b>Русский</b></p>
@@ -133,3 +144,5 @@
 ---
 
 <p align="center"><i>Главное — живи! Не существуй ради оценок, зарплаты или одобрения. Живи так, чтобы каждый день, ложась спать, ты мог сказать: «Да, сегодня было круто!»</i></p>
+
+</details>

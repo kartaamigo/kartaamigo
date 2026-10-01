@@ -1,9 +1,20 @@
+<p align="right"><b>Русский</b> · <a href="README.en.md">English</a></p>
+
+<p align="center"><a href="https://kartaamigo.github.io/"><b>↗ ОТКРЫТЬ ПОРТФОЛИО — ДИЗАЙН, ПРОЕКТЫ И RE: FORM</b></a></p>
+
+<a href="https://kartaamigo.github.io/"><img src="assets/portfolio-full.png" width="100%" alt="SoulArt / KRTY || Maria Matveeva — полное портфолио: работы, обо мне, направления, инструменты, навыки, опыт, авторская студия RE: FORM и контакты. Нажми, чтобы открыть интерактивный сайт."></a>
+
+<p align="center"><a href="https://kartaamigo.github.io/#projects">Работы</a> · <a href="https://kartaamigo.github.io/#team">RE: FORM</a> · <a href="https://kartaamigo.github.io/#contact">Связаться</a> · <a href="https://kartaamigo.github.io/index.en.html">English website</a></p>
+
+<details>
+<summary>Текстовая версия профиля, контакты и прямые ссылки на работы</summary>
+
 <img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — SoulArt / KRTY">
 
-<p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
+<p align="right"><a href="README.md">English</a> · <b>Русский</b></p>
 
 <h1 align="center">SoulArt / KRTY || Maria</h1>
-<p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
+<p align="center"><b>ГРАФИЧЕСКИЙ | МУЛЬТИДИСЦИПЛИНАРНЫЙ ДИЗАЙНЕР</b></p>
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
@@ -11,70 +22,70 @@
 <a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
 </p>
 <p align="center">
-<a href="https://t.me/soulamigo"><img src="assets/social-work-matched.png" width="240" height="56" alt="Telegram — My work"></a>
+<a href="https://t.me/soulamigo"><img src="assets/social-work-matched.png" width="240" height="56" alt="Telegram — канал с работами / Work channel"></a>
 <a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-matched.png" width="210" height="56" alt="Instagram — @xgxsoul_kartaviyx"></a>
-<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-matched.png" width="230" height="56" alt="TikTok — Photography"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-matched.png" width="230" height="56" alt="TikTok — фотографии / Photography"></a>
 </p>
 
-## Welcome, I'm SoulArt / KRTY || Maria 👋
+## Приветствую, я SoulArt / KRTY || Maria 👋
 
-I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
+Я занимаюсь дизайном, создаю самые разные вещи и довожу каждый проект до действительно красивого результата. Если тебе нужен стильный, аккуратный и цепляющий визуал — ты по адресу.
 
-· **Graphic designer** — posters, covers, product cards and social media graphics.  
-· **UI/UX** — visual design for websites and apps.  
-· **Visual identity** — logos and brand visuals.  
-· **Editorial design** — magazine layouts, composition and typography.  
-· **Photographer** — events and portraits.
+· **Графический дизайнер** — постеры, обложки, карточки товаров и графика для соцсетей.  
+· **UI/UX** — визуальное оформление сайтов и приложений.  
+· **Айдентика** — логотипы и визуальный стиль.  
+· **Редакционный дизайн** — журнальная вёрстка, композиция и типографика.  
+· **Фотограф** — съёмка мероприятий и портретов.
 
-Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
+В дизайне с 2022 года. Я из России, развиваю навыки через личные и учебные проекты и открыта к творческому сотрудничеству.
 
-**Contact me:** [@designeramigo](https://t.me/designeramigo)  
-**My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
-**Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
+**Связь со мной:** [@designeramigo](https://t.me/designeramigo)  
+**Мои работы в Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**TikTok с фотографиями:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/cta-work-bilingual.png" width="240" height="56" alt="Посмотреть работы / View my work"></a>
 <a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
 </p>
 
-## Design services / Направления
+## Направления / Design services
 
 <p align="right">
-<img src="assets/services-en.png" width="100%" alt="Social media content · Print & packaging · Creative concepts · Branding & identity · Logos & symbols · UI/UX design Websites & apps">
+<img src="assets/services-ru.png" width="100%" alt="Контент для соц. сетей · Полиграфия и упаковки · Креативные концепции · Брендинг и айдентика · Логотипы и знаки · UI/UX-дизайн Сайты и приложения">
 </p>
 
-## Selected work
+## Избранные работы
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a>
 <h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
-<p>Brand identity and brand guidelines.</p>
+<p>Айдентика и руководство по визуальному стилю.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a>
 <h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
-<p>Fitness brand rebranding concept · college project.</p>
+<p>Концепция ребрендинга фитнес-сети · учебный проект.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a>
 <h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
-<p>Portfolio website · college project.</p>
+<p>Сайт-портфолио · учебный проект.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a>
 <h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
-<p>Magazine layout and editorial design.</p>
+<p>Журнальная вёрстка и редакционный дизайн.</p>
 </td>
 </tr>
 </table>
 
-[Explore my full portfolio →](https://www.behance.net/tuumiyurmirazh/projects)
+[Посмотреть всё портфолио →](https://www.behance.net/tuumiyurmirazh/projects)
 
-## What I work with
+## С чем работаю
 
 <p align="center">
 <img src="assets/tool-illustrator-transparent.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
@@ -86,50 +97,52 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 <p align="center">Illustrator · Photoshop · Figma · InDesign · Lightroom</p>
 
-### Design skills
+### Профессиональные навыки
 
-| Visual foundations | Creative practice |
+| Основа визуала | Практика дизайна |
 | :--- | :--- |
-| Composition & visual hierarchy | Reference research & moodboards |
-| Typography | Poster & banner design |
-| Color correction & color harmony | Visual identities & logos |
-| Layout & grid systems | Product cards, covers & social media graphics |
+| Композиция и иерархия | Работа с референсами и мудбордами |
+| Типографика | Дизайн постеров и баннеров |
+| Цветокоррекция и гармония | Разработка айдентики и логотипов |
+| Вёрстка и работа с сетками | Карточки товаров, обложки и контент для соцсетей |
 
 ### Soft skills
 
-- Creative thinking
-- Attention to detail
-- Openness to feedback and flexible thinking
-- Time management and responsibility
-- Fast learning
+- Креативное мышление
+- Внимание к деталям
+- Работа с критикой и гибкость
+- Тайм-менеджмент и ответственность
+- Быстрая обучаемость
 
-### Languages
+### Языки
 
-**Russian** — Native  
-**English** — Basic
-
-
-## Experience & education
-
-### Experience
-
-- **Graphic designer · BeePro · 2023** — Product cards for a website.
-- **Photographer · College · 2025–2026** — Event and portrait photography.
-- **Graphic designer · College · Since 2026** — Cards and visual materials.
-
-### Education
-
-**IT TOP Academy · Graphic Design · 2023–2025**  
-Composition, typography, color, visual identity and digital design. Practical work and contemporary design approaches.
+**Русский** — Родной  
+**Английский** — Базовый
 
 
+## Опыт и образование
 
-## Let's create something together
+### Опыт
 
-Have a brand, publication or visual project in mind? Tell me about it.
+- **Графический дизайнер · BeePro · 2023** — Карточки товаров для сайта.
+- **Фотограф · Колледж · 2025–2026** — Съёмка мероприятий и портретов.
+- **Графический дизайнер · Колледж · С 2026 года** — Создание карточек и визуальных материалов.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
+### Образование
+
+**IT TOP Academy · Графический дизайн · 2023–2025**  
+Композиция, типографика, цвет, айдентика и digital-дизайн. Практика и современные подходы.
+
+
+
+## Давай создадим что-нибудь вместе
+
+Нужна айдентика, оформление издания или визуальные материалы? Расскажи о своей задаче.
+
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Почта](mailto:xghostxsoulx@gmail.com)
 
 ---
 
-<p align="center"><i>Above all, live! Do not live only for grades, a salary or approval. Live so that every night you can say: “Yes, today was great!”</i></p>
+<p align="center"><i>Главное — живи! Не существуй ради оценок, зарплаты или одобрения. Живи так, чтобы каждый день, ложась спать, ты мог сказать: «Да, сегодня было круто!»</i></p>
+
+</details>
