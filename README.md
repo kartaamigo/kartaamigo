@@ -40,7 +40,7 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 ## Design services / Направления
 
 <p align="right">
-<img src="assets/services-borderless.png" width="100%" alt="Контент для соц. сетей / Social media content · Полиграфия и упаковки / Print & packaging · Креативные концепции / Creative concepts · Брендинг и айдентика / Branding & identity · Логотипы и знаки / Logos & symbols · UI/UX-дизайн: сайты и приложения / UI/UX design: websites & apps">
+<img src="assets/services-en.png" width="100%" alt="Social media content · Print & packaging · Creative concepts · Branding & identity · Logos & symbols · UI/UX design Websites & apps">
 </p>
 
 ## Selected work

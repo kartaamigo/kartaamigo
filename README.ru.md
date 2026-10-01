@@ -40,7 +40,7 @@
 ## Направления / Design services
 
 <p align="right">
-<img src="assets/services-borderless.png" width="100%" alt="Контент для соц. сетей / Social media content · Полиграфия и упаковки / Print & packaging · Креативные концепции / Creative concepts · Брендинг и айдентика / Branding & identity · Логотипы и знаки / Logos & symbols · UI/UX-дизайн: сайты и приложения / UI/UX design: websites & apps">
+<img src="assets/services-ru.png" width="100%" alt="Контент для соц. сетей · Полиграфия и упаковки · Креативные концепции · Брендинг и айдентика · Логотипы и знаки · UI/UX-дизайн Сайты и приложения">
 </p>
 
 ## Избранные работы
