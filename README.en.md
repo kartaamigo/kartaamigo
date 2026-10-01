@@ -1,4 +1,4 @@
-<p align="right"><a href="README.md">Русский</a> · <b>English</b></p>
+<p align="right"><a href="README.ru.md">Русский</a> · <b>English</b></p>
 
 <p align="center"><a href="#work">Selected work</a> · <a href="#about">About me</a> · <a href="#services">Services</a> · <a href="#tools">Tools & skills</a> · <a href="#experience">Experience</a> · <a href="#reform">RE: FORM</a> · <a href="#contact">Contact</a></p>
 
@@ -76,6 +76,11 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 <p align="center">Illustrator · Photoshop · Figma · InDesign · Lightroom</p>
 
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/skills-box-en-dark.png"><img src="assets/skills-box-en-light.png" width="1000" alt="Design skills; Visual foundations; Composition &amp; visual hierarchy; Typography; Color correction &amp; color harmony; Layout &amp; grid systems; Creative practice; Reference research &amp; moodboards; Poster &amp; banner design; Visual identities &amp; logos; Product cards, covers &amp; social media graphics; Soft skills; Creative thinking; Attention to detail; Openness to feedback and flexible thinking; Time management and responsibility; Fast learning"></picture></p>
+
+<details>
+<summary>Read the full text</summary>
+
 ### Design skills
 
 **Visual foundations**
@@ -99,6 +104,8 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 - Time management and responsibility
 - Fast learning
 
+</details>
+
 ### Languages
 
 **Russian** — Native  
@@ -108,11 +115,18 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 ### Experience & education
 
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-box-en-dark.png"><img src="assets/experience-box-en-light.png" width="1000" alt="Experience; 2023 · Graphic designer · BeePro · Product cards for a website.; 2025–2026 · Photographer · College · Event and portrait photography.; Since 2026 · Graphic designer · College · Cards and visual materials."></picture></p>
+
+<details>
+<summary>Read the full text</summary>
+
 ### Experience
 
 - **Graphic designer · BeePro · 2023** — Product cards for a website.
 - **Photographer · College · 2025–2026** — Event and portrait photography.
 - **Graphic designer · College · Since 2026** — Cards and visual materials.
+
+</details>
 
 ### Education
 
