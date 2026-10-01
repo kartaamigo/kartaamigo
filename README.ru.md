@@ -2,52 +2,51 @@
 
 <p align="center"><a href="#work">Работы</a> · <a href="#about">Обо мне</a> · <a href="#services">Направления</a> · <a href="#tools">Инструменты и навыки</a> · <a href="#experience">Опыт</a> · <a href="#reform">RE: FORM</a> · <a href="#contact">Контакты</a></p>
 
-<table><tr><td width="55%" valign="middle">
-<h1>SoulArt / KRTY</h1>
-<h2>Maria Matveeva</h2>
+<a href="https://kartaamigo.github.io/"><img align="right" src="assets/profile-hero-transparent.png" width="280" alt="SoulArt illustrated character — click to open the interactive portfolio"></a>
+
+<h3>SoulArt / KRTY</h3>
+<h3>Maria Matveeva</h3>
 <p><b>ГРАФИЧЕСКИЙ | МУЛЬТИДИСЦИПЛИНАРНЫЙ ДИЗАЙНЕР</b></p>
 <p>Превращаю идеи в визуальные истории.<br>Дизайн с характером. Без скучных решений.</p>
 <p><a href="https://kartaamigo.github.io/#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a></p>
 <p><a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
 <p><sub>РОССИЯ · В ДИЗАЙНЕ С 2022</sub></p>
-</td><td width="45%" align="center"><a href="https://kartaamigo.github.io/"><img src="assets/profile-hero-transparent.png" width="360" alt="SoulArt illustrated character — click to open the interactive portfolio"></a></td></tr></table>
+<br clear="all">
+
 
 <a id="work"></a>
 
-## Работы
+### Работы
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a>
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img align="right" src="assets/brandbook.jpg" width="250" alt="Brand Book GxSoul/KRTY"></a>
 <h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
 <p>Айдентика и руководство по визуальному стилю.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img align="right" src="assets/xfit.jpg" width="250" alt="XFit Rebranding"></a>
 <h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
 <p>Концепция ребрендинга фитнес-сети · учебный проект.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img align="right" src="assets/portfolio.jpg" width="250" alt="Portfolio Website"></a>
 <h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
 <p>Сайт-портфолио · учебный проект.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img align="right" src="assets/journal.jpg" width="250" alt="Journal"></a>
 <h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
 <p>Журнальная вёрстка и редакционный дизайн.</p>
-</td>
-</tr>
-</table>
+<br clear="all">
+
 
 [Посмотреть всё портфолио →](https://www.behance.net/tuumiyurmirazh/projects)
 
 <a id="about"></a>
 
-## Обо мне
+### Обо мне
 
 Я занимаюсь дизайном, создаю самые разные вещи и довожу каждый проект до действительно красивого результата. Если тебе нужен стильный, аккуратный и цепляющий визуал — ты по адресу.
 
@@ -70,24 +69,20 @@
 
 <a id="services"></a>
 
-## Направления
+### Направления
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-social-new-bilingual.png" width="245" alt="Контент для соц. сетей"></a><p>Контент для соц. сетей</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-print-new-bilingual.png" width="245" alt="Полиграфия и упаковки"></a><p>Полиграфия и упаковки</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-concepts-new-bilingual.png" width="245" alt="Креативные концепции"></a><p>Креативные концепции</p></td>
-</tr>
-<tr>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-branding-new-bilingual.png" width="245" alt="Брендинг и айдентика"></a><p>Брендинг и айдентика</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-logos-new-bilingual.png" width="245" alt="Логотипы и знаки"></a><p>Логотипы и знаки</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-uiux-new-bilingual.png" width="245" alt="UI/UX-дизайн — сайты и приложения"></a><p>UI/UX-дизайн — сайты и приложения</p></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://t.me/designeramigo"><img src="assets/service-social-new-bilingual.png" width="110" alt="Контент для соц. сетей"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-print-new-bilingual.png" width="110" alt="Полиграфия и упаковки"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-concepts-new-bilingual.png" width="110" alt="Креативные концепции"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-branding-new-bilingual.png" width="110" alt="Брендинг и айдентика"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-logos-new-bilingual.png" width="110" alt="Логотипы и знаки"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-uiux-new-bilingual.png" width="110" alt="UI/UX-дизайн — сайты и приложения"></a>
+</p>
 
 <a id="tools"></a>
 
-## Инструменты и навыки
+### Инструменты и навыки
 
 <p align="center">
 <img src="assets/tool-illustrator-transparent.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
@@ -101,13 +96,19 @@
 
 ### Профессиональные навыки
 
-| Основа визуала | Практика дизайна |
-| :--- | :--- |
-| Композиция и иерархия | Работа с референсами и мудбордами |
-| Типографика | Дизайн постеров и баннеров |
-| Цветокоррекция и гармония | Разработка айдентики и логотипов |
-| Вёрстка и работа с сетками | Карточки товаров, обложки и контент для соцсетей |
+**Основа визуала**
 
+- Композиция и иерархия
+- Типографика
+- Цветокоррекция и гармония
+- Вёрстка и работа с сетками
+
+**Практика дизайна**
+
+- Работа с референсами и мудбордами
+- Дизайн постеров и баннеров
+- Разработка айдентики и логотипов
+- Карточки товаров, обложки и контент для соцсетей
 ### Soft skills
 
 - Креативное мышление
@@ -123,7 +124,7 @@
 
 <a id="experience"></a>
 
-## Опыт и образование
+### Опыт и образование
 
 ### Опыт
 
@@ -138,9 +139,12 @@
 
 <a id="reform"></a>
 
-## RE: FORM — авторская студия одного человека
+### RE: FORM — авторская студия одного человека
 
-<table><tr><td width="35%" align="center"><img src="assets/reform-studio-transparent.png" width="240" alt="Синий заяц RE: FORM рисует на планшете"></td><td valign="middle"><h3>МОЯ КОМАНДА — RE: FORM</h3><p><b>RE: FORM</b> — это не команда в классическом смысле. Это <b>мой личный проект</b>, где я выступаю одновременно дизайнером, разработчиком, менеджером и идейным вдохновителем.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="Заяц RE: FORM"></p><p><b>Участник проекта: Я — основатель и единственный исполнитель.</b></p></td></tr></table>
+<img align="right" src="assets/reform-studio-transparent.png" width="210" alt="Синий заяц RE: FORM рисует на планшете">
+<h3>МОЯ КОМАНДА — RE: FORM</h3><p><b>RE: FORM</b> — это не команда в классическом смысле. Это <b>мой личный проект</b>, где я выступаю одновременно дизайнером, разработчиком, менеджером и идейным вдохновителем.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="Заяц RE: FORM"></p><p><b>Участник проекта: Я — основатель и единственный исполнитель.</b></p>
+<br clear="all">
+
 
 - **Роль:** Project Lead, UI/UX-дизайнер, Full-stack разработчик.
 - **Команда:** RE: FORM — авторский проект, реализуемый силами одного человека.
@@ -152,12 +156,13 @@
 
 ### Что это даёт
 
-| Скорость | Целостность |
-| :--- | :--- |
-| Решения принимаются мгновенно, без согласований. | Дизайн и код не конфликтуют — они создаются одним человеком. |
-| **Гибкость** | **Уникальность** |
-| Я могу менять направление проекта на лету. | Каждый проект — это моё видение от начала до конца. |
+**Скорость** — Решения принимаются мгновенно, без согласований.
 
+**Гибкость** — Я могу менять направление проекта на лету.
+
+**Целостность** — Дизайн и код не конфликтуют — они создаются одним человеком.
+
+**Уникальность** — Каждый проект — это моё видение от начала до конца.
 ### Философия RE: FORM
 
 **Один человек + ИИ = полноценная студия.**
@@ -166,7 +171,10 @@
 - Я не просто пишу код — я делаю его **красивым и удобным**.
 - Моя цель — создавать **полезные приложения для жизни**, которые выходят за рамки чисто дизайна.
 
-<table><tr><td width="60%" valign="middle"><h3>RE: FORM LIFE</h3><p>Интеллектуальная экосистема для планирования жизни с ИИ-ассистентом <b>EVE</b>.</p><p><b>ДИЗАЙН · КОД · ИИ</b></p><p><a href="https://t.me/designeramigo">Обсудить проект ↗</a></p></td><td width="40%" align="center"><a href="https://kartaamigo.github.io/#team"><img src="assets/reform-life-transparent.png" width="290" alt="Неоновый синий заяц RE: FORM LIFE"></a></td></tr></table>
+<a href="https://kartaamigo.github.io/#team"><img align="right" src="assets/reform-life-transparent.png" width="220" alt="Неоновый синий заяц RE: FORM LIFE"></a>
+<h3>RE: FORM LIFE</h3><p>Интеллектуальная экосистема для планирования жизни с ИИ-ассистентом <b>EVE</b>.</p><p><b>ДИЗАЙН · КОД · ИИ</b></p><p><a href="https://t.me/designeramigo">Обсудить проект ↗</a></p>
+<br clear="all">
+
 
 **RE: FORM**  
 Твой путь к осознанным переменам.  
@@ -175,7 +183,7 @@
 
 <a id="contact"></a>
 
-## Давай создадим что-нибудь вместе
+### Давай создадим что-нибудь вместе
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
@@ -192,8 +200,6 @@
 Нужна айдентика, оформление издания или визуальные материалы? Расскажи о своей задаче.
 
 [Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Почта](mailto:xghostxsoulx@gmail.com)
-
----
 
 <p align="center"><i>Главное — живи! Не существуй ради оценок, зарплаты или одобрения. Живи так, чтобы каждый день, ложась спать, ты мог сказать: «Да, сегодня было круто!»</i></p>
 

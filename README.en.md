@@ -2,52 +2,51 @@
 
 <p align="center"><a href="#work">Selected work</a> · <a href="#about">About me</a> · <a href="#services">Services</a> · <a href="#tools">Tools & skills</a> · <a href="#experience">Experience</a> · <a href="#reform">RE: FORM</a> · <a href="#contact">Contact</a></p>
 
-<table><tr><td width="55%" valign="middle">
-<h1>SoulArt / KRTY</h1>
-<h2>Maria Matveeva</h2>
+<a href="https://kartaamigo.github.io/index.en.html"><img align="right" src="assets/profile-hero-transparent.png" width="280" alt="SoulArt illustrated character — click to open the interactive portfolio"></a>
+
+<h3>SoulArt / KRTY</h3>
+<h3>Maria Matveeva</h3>
 <p><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 <p>Turning ideas into visual stories.<br>Design with character. No boring solutions.</p>
 <p><a href="https://kartaamigo.github.io/index.en.html#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a></p>
 <p><a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
 <p><sub>RUSSIA · DESIGNING SINCE 2022</sub></p>
-</td><td width="45%" align="center"><a href="https://kartaamigo.github.io/index.en.html"><img src="assets/profile-hero-transparent.png" width="360" alt="SoulArt illustrated character — click to open the interactive portfolio"></a></td></tr></table>
+<br clear="all">
+
 
 <a id="work"></a>
 
-## Selected work
+### Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a>
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img align="right" src="assets/brandbook.jpg" width="250" alt="Brand Book GxSoul/KRTY"></a>
 <h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
 <p>Brand identity and brand guidelines.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img align="right" src="assets/xfit.jpg" width="250" alt="XFit Rebranding"></a>
 <h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
 <p>Fitness brand rebranding concept · college project.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img align="right" src="assets/portfolio.jpg" width="250" alt="Portfolio Website"></a>
 <h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
 <p>Portfolio website · college project.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a>
+<br clear="all">
+
+
+<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img align="right" src="assets/journal.jpg" width="250" alt="Journal"></a>
 <h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
 <p>Magazine layout and editorial design.</p>
-</td>
-</tr>
-</table>
+<br clear="all">
+
 
 [Explore my full portfolio →](https://www.behance.net/tuumiyurmirazh/projects)
 
 <a id="about"></a>
 
-## About me
+### About me
 
 I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
 
@@ -70,24 +69,20 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 <a id="services"></a>
 
-## Services
+### Services
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-social-new-bilingual.png" width="245" alt="Social media content"></a><p>Social media content</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-print-new-bilingual.png" width="245" alt="Print & packaging"></a><p>Print & packaging</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-concepts-new-bilingual.png" width="245" alt="Creative concepts"></a><p>Creative concepts</p></td>
-</tr>
-<tr>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-branding-new-bilingual.png" width="245" alt="Branding & identity"></a><p>Branding & identity</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-logos-new-bilingual.png" width="245" alt="Logos & symbols"></a><p>Logos & symbols</p></td>
-<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-uiux-new-bilingual.png" width="245" alt="UI/UX design — websites & apps"></a><p>UI/UX design — websites & apps</p></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://t.me/designeramigo"><img src="assets/service-social-new-bilingual.png" width="110" alt="Social media content"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-print-new-bilingual.png" width="110" alt="Print & packaging"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-concepts-new-bilingual.png" width="110" alt="Creative concepts"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-branding-new-bilingual.png" width="110" alt="Branding & identity"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-logos-new-bilingual.png" width="110" alt="Logos & symbols"></a> &nbsp;
+<a href="https://t.me/designeramigo"><img src="assets/service-uiux-new-bilingual.png" width="110" alt="UI/UX design — websites & apps"></a>
+</p>
 
 <a id="tools"></a>
 
-## Tools & skills
+### Tools & skills
 
 <p align="center">
 <img src="assets/tool-illustrator-transparent.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
@@ -101,13 +96,19 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 ### Design skills
 
-| Visual foundations | Creative practice |
-| :--- | :--- |
-| Composition & visual hierarchy | Reference research & moodboards |
-| Typography | Poster & banner design |
-| Color correction & color harmony | Visual identities & logos |
-| Layout & grid systems | Product cards, covers & social media graphics |
+**Visual foundations**
 
+- Composition & visual hierarchy
+- Typography
+- Color correction & color harmony
+- Layout & grid systems
+
+**Creative practice**
+
+- Reference research & moodboards
+- Poster & banner design
+- Visual identities & logos
+- Product cards, covers & social media graphics
 ### Soft skills
 
 - Creative thinking
@@ -123,7 +124,7 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 <a id="experience"></a>
 
-## Experience & education
+### Experience & education
 
 ### Experience
 
@@ -138,9 +139,12 @@ Composition, typography, color, visual identity and digital design. Practical wo
 
 <a id="reform"></a>
 
-## RE: FORM — a one-person creative studio
+### RE: FORM — a one-person creative studio
 
-<table><tr><td width="35%" align="center"><img src="assets/reform-studio-transparent.png" width="240" alt="RE: FORM blue bunny drawing on a tablet"></td><td valign="middle"><h3>MY TEAM — RE: FORM</h3><p><b>RE: FORM</b> is not a team in the traditional sense. It is <b>my personal project</b>, where I am the designer, developer, manager and creative driving force all at once.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="RE: FORM bunny"></p><p><b>Project member: I am the founder and sole creator.</b></p></td></tr></table>
+<img align="right" src="assets/reform-studio-transparent.png" width="210" alt="RE: FORM blue bunny drawing on a tablet">
+<h3>MY TEAM — RE: FORM</h3><p><b>RE: FORM</b> is not a team in the traditional sense. It is <b>my personal project</b>, where I am the designer, developer, manager and creative driving force all at once.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="RE: FORM bunny"></p><p><b>Project member: I am the founder and sole creator.</b></p>
+<br clear="all">
+
 
 - **Role:** Project Lead, UI/UX Designer, Full-stack Developer.
 - **Team:** RE: FORM — a personal project created and developed by one person.
@@ -152,12 +156,13 @@ I bring **design and programming** together in one process. I do not have to wai
 
 ### What this brings
 
-| Speed | Consistency |
-| :--- | :--- |
-| Decisions are made instantly, without approval chains. | Design and code work together — they are created by the same person. |
-| **Flexibility** | **Originality** |
-| I can change the direction of a project on the fly. | Every project is my vision from beginning to end. |
+**Speed** — Decisions are made instantly, without approval chains.
 
+**Flexibility** — I can change the direction of a project on the fly.
+
+**Consistency** — Design and code work together — they are created by the same person.
+
+**Originality** — Every project is my vision from beginning to end.
 ### The RE: FORM philosophy
 
 **One person + AI = a complete studio.**
@@ -166,7 +171,10 @@ I bring **design and programming** together in one process. I do not have to wai
 - I do not just write code — I make it **beautiful and easy to use**.
 - My goal is to create **useful applications for everyday life** that go beyond design alone.
 
-<table><tr><td width="60%" valign="middle"><h3>RE: FORM LIFE</h3><p>An intelligent life-planning ecosystem with the AI assistant <b>EVE</b>.</p><p><b>DESIGN · CODE · AI</b></p><p><a href="https://t.me/designeramigo">Discuss the project ↗</a></p></td><td width="40%" align="center"><a href="https://kartaamigo.github.io/index.en.html#team"><img src="assets/reform-life-transparent.png" width="290" alt="RE: FORM LIFE neon blue bunny"></a></td></tr></table>
+<a href="https://kartaamigo.github.io/index.en.html#team"><img align="right" src="assets/reform-life-transparent.png" width="220" alt="RE: FORM LIFE neon blue bunny"></a>
+<h3>RE: FORM LIFE</h3><p>An intelligent life-planning ecosystem with the AI assistant <b>EVE</b>.</p><p><b>DESIGN · CODE · AI</b></p><p><a href="https://t.me/designeramigo">Discuss the project ↗</a></p>
+<br clear="all">
+
 
 **RE: FORM**  
 Your path to intentional change.  
@@ -175,7 +183,7 @@ One idea. One person. One product.
 
 <a id="contact"></a>
 
-## Let’s create something together
+### Let’s create something together
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
@@ -192,8 +200,6 @@ One idea. One person. One product.
 Have a brand, publication or visual project in mind? Tell me about it.
 
 [Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
-
----
 
 <p align="center"><i>Above all, live! Do not live only for grades, a salary or approval. Live so that every night you can say: “Yes, today was great!”</i></p>
 
