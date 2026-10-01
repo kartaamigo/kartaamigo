@@ -8,8 +8,7 @@
 <h3>Maria Matveeva</h3>
 <p><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 <p>Turning ideas into visual stories.<br>Design with character. No boring solutions.</p>
-<p><a href="https://kartaamigo.github.io/index.en.html#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a></p>
-<p><a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
+<p><a href="https://kartaamigo.github.io/index.en.html#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a> &nbsp; <a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
 <p><sub>RUSSIA · DESIGNING SINCE 2022</sub></p>
 <br clear="all">
 
@@ -18,28 +17,28 @@
 
 ### Selected work
 
-<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img align="right" src="assets/brandbook.jpg" width="250" alt="Brand Book GxSoul/KRTY"></a>
 <h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
 <p>Brand identity and brand guidelines.</p>
-<br clear="all">
+<p><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a></p>
 
 
-<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img align="right" src="assets/xfit.jpg" width="250" alt="XFit Rebranding"></a>
+
 <h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
 <p>Fitness brand rebranding concept · college project.</p>
-<br clear="all">
+<p><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a></p>
 
 
-<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img align="right" src="assets/portfolio.jpg" width="250" alt="Portfolio Website"></a>
+
 <h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
 <p>Portfolio website · college project.</p>
-<br clear="all">
+<p><a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a></p>
 
 
-<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img align="right" src="assets/journal.jpg" width="250" alt="Journal"></a>
+
 <h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
 <p>Magazine layout and editorial design.</p>
-<br clear="all">
+<p><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a></p>
+
 
 
 [Explore my full portfolio →](https://www.behance.net/tuumiyurmirazh/projects)
