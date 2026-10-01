@@ -2,7 +2,7 @@
 
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
-<h1 align="center">SoulArt / KRTY</h1>
+<h1 align="center">SoulArt / KRTY || Maria</h1>
 <p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 
 <p align="center">
@@ -16,15 +16,15 @@
 <a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — фотографии / Photography"></a>
 </p>
 
-## Welcome, I'm SoulArt / KRTY 👋
+## Welcome, I'm SoulArt / KRTY || Maria 👋
 
 I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
 
-· **Photographer** — events and portraits.  
 · **Graphic designer** — posters, covers, product cards and social media graphics.  
 · **UI/UX** — visual design for websites and apps.  
 · **Visual identity** — logos and brand visuals.  
-· **Editorial design** — magazine layouts, composition and typography.
+· **Editorial design** — magazine layouts, composition and typography.  
+· **Photographer** — events and portraits.
 
 Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
 
