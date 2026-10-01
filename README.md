@@ -11,9 +11,9 @@
 <a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
 </p>
 <p align="center">
-<a href="https://t.me/soulamigo"><img src="assets/social-work-final.png" width="180" alt="Telegram — канал с работами / Work channel"></a>
-<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-final.png" width="180" alt="Instagram — @xgxsoul_kartaviyx"></a>
-<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-final.png" width="180" alt="TikTok — фотографии / Photography"></a>
+<a href="https://t.me/soulamigo"><img src="assets/social-work-en.png" width="180" alt="Telegram — My work"></a>
+<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-en.png" width="180" alt="Instagram — @xgxsoul_kartaviyx"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-en.png" width="180" alt="TikTok — Photography"></a>
 </p>
 
 ## Welcome, I'm SoulArt / KRTY || Maria 👋
