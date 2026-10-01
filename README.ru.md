@@ -81,11 +81,11 @@
 ## С чем работаю
 
 <p align="center">
-<img src="assets/tool-illustrator-supplied.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
-<img src="assets/tool-photoshop-supplied.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
-<img src="assets/tool-figma-supplied.png" width="72" alt="Figma" title="Figma"> &nbsp;
-<img src="assets/tool-indesign-supplied.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
-<img src="assets/tool-lightroom-supplied.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
+<img src="assets/tool-illustrator-vector.svg" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
+<img src="assets/tool-photoshop-vector.svg" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
+<img src="assets/tool-figma-vector.svg" width="72" alt="Figma" title="Figma"> &nbsp;
+<img src="assets/tool-indesign-vector.svg" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
+<img src="assets/tool-lightroom-vector.svg" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
 </p>
 
 <p align="center">Illustrator · Photoshop · Figma · InDesign · Lightroom</p>
