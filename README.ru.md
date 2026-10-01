@@ -39,27 +39,9 @@
 
 ## Направления / Design services
 
-<table>
-<tr>
-<td width="70%" align="center" valign="middle">
-
-<p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-social-new-bilingual.png" width="160" height="210" alt="Контент для соц. сетей / Social media content"></a>
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-print-new-bilingual.png" width="160" height="210" alt="Полиграфия и упаковки / Print & packaging"></a>
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-concepts-new-bilingual.png" width="160" height="210" alt="Креативные концепции / Creative concepts"></a>
+<p align="right">
+<img src="assets/services-borderless.png" width="100%" alt="Контент для соц. сетей / Social media content · Полиграфия и упаковки / Print & packaging · Креативные концепции / Creative concepts · Брендинг и айдентика / Branding & identity · Логотипы и знаки / Logos & symbols · UI/UX-дизайн: сайты и приложения / UI/UX design: websites & apps">
 </p>
-<p align="center">
-<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/service-branding-new-bilingual.png" width="160" height="210" alt="Брендинг и айдентика / Branding & identity"></a>
-<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/service-logos-new-bilingual.png" width="160" height="210" alt="Логотипы и знаки / Logos & symbols"></a>
-<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/service-uiux-new-bilingual.png" width="160" height="210" alt="UI/UX-дизайн Сайты и приложения / UI/UX design Websites & apps"></a>
-</p>
-
-</td>
-<td width="30%" align="right" valign="middle">
-<img src="assets/services-hand.png" width="210" alt="">
-</td>
-</tr>
-</table>
 
 ## Избранные работы
 
