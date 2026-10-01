@@ -17,29 +17,12 @@
 
 ### Работы
 
-<h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
-<p>Айдентика и руководство по визуальному стилю.</p>
-<p><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
-<p>Концепция ребрендинга фитнес-сети · учебный проект.</p>
-<p><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
-<p>Сайт-портфолио · учебный проект.</p>
-<p><a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
-<p>Журнальная вёрстка и редакционный дизайн.</p>
-<p><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a></p>
-
-
+<p>
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-brandbook-ru-dark.png"><img src="assets/work-brandbook-ru-light.png" width="185" alt="Brand Book GxSoul/KRTY — Айдентика и руководство по визуальному стилю."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-xfit-ru-dark.png"><img src="assets/work-xfit-ru-light.png" width="185" alt="XFit Rebranding — Концепция ребрендинга фитнес-сети · учебный проект."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-ru-dark.png"><img src="assets/work-portfolio-ru-light.png" width="185" alt="Portfolio Website — Сайт-портфолио · учебный проект."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-journal-ru-dark.png"><img src="assets/work-journal-ru-light.png" width="185" alt="Journal — Журнальная вёрстка и редакционный дизайн."></picture></a>
+</p>
 
 [Посмотреть всё портфолио →](https://www.behance.net/tuumiyurmirazh/projects)
 

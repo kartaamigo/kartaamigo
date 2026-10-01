@@ -15,31 +15,14 @@
 
 <a id="work"></a>
 
-### Selected work
+### Work
 
-<h3><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY">Brand Book GxSoul/KRTY</a></h3>
-<p>Brand identity and brand guidelines.</p>
-<p><a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/brandbook.jpg" width="390" alt="Brand Book GxSoul/KRTY"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding">XFit Rebranding</a></h3>
-<p>Fitness brand rebranding concept · college project.</p>
-<p><a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><img src="assets/xfit.jpg" width="390" alt="XFit Rebranding"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/251160601/Portfolio-Website">Portfolio Website</a></h3>
-<p>Portfolio website · college project.</p>
-<p><a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><img src="assets/portfolio.jpg" width="390" alt="Portfolio Website"></a></p>
-
-
-
-<h3><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine">Journal</a></h3>
-<p>Magazine layout and editorial design.</p>
-<p><a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><img src="assets/journal.jpg" width="390" alt="Journal"></a></p>
-
-
+<p>
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-brandbook-en-dark.png"><img src="assets/work-brandbook-en-light.png" width="185" alt="Brand Book GxSoul/KRTY — Brand identity and brand guidelines."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/249997653/XFit-Rebranding"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-xfit-en-dark.png"><img src="assets/work-xfit-en-light.png" width="185" alt="XFit Rebranding — Fitness brand rebranding concept · college project."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-en-dark.png"><img src="assets/work-portfolio-en-light.png" width="185" alt="Portfolio Website — Portfolio website · college project."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-journal-en-dark.png"><img src="assets/work-journal-en-light.png" width="185" alt="Journal — Magazine layout and editorial design."></picture></a>
+</p>
 
 [Explore my full portfolio →](https://www.behance.net/tuumiyurmirazh/projects)
 
