@@ -81,14 +81,14 @@
 ## С чем работаю
 
 <p align="center">
-<img src="assets/photoshop-pastel.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
-<img src="assets/illustrator-pastel.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
-<img src="assets/indesign-pastel.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
-<img src="assets/lightroom-pastel.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
-<img src="assets/figma-custom.svg" width="72" alt="Figma" title="Figma"> &nbsp;
+<img src="assets/tool-illustrator-supplied.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
+<img src="assets/tool-photoshop-supplied.png" width="72" alt="Adobe Photoshop" title="Adobe Photoshop"> &nbsp;
+<img src="assets/tool-figma-supplied.png" width="72" alt="Figma" title="Figma"> &nbsp;
+<img src="assets/tool-indesign-supplied.png" width="72" alt="Adobe InDesign" title="Adobe InDesign"> &nbsp;
+<img src="assets/tool-lightroom-supplied.png" width="72" alt="Adobe Lightroom" title="Adobe Lightroom"> &nbsp;
 </p>
 
-<p align="center">Photoshop · Illustrator · InDesign · Lightroom · Figma</p>
+<p align="center">Illustrator · Photoshop · Figma · InDesign · Lightroom</p>
 
 ### Профессиональные навыки
 
