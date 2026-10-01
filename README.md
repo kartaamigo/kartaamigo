@@ -7,13 +7,13 @@
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
-<a href="https://t.me/designerpooh"><img src="assets/social-telegram-bilingual.png" width="210" height="56" alt="Telegram — Связь / Contact"></a>
+<a href="https://t.me/designeramigo"><img src="assets/social-telegram-bilingual.png" width="210" height="56" alt="Telegram — Связь / Contact"></a>
 <a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
 </p>
 <p align="center">
-<a href="https://t.me/soulamigo"><img src="assets/social-work-supplied.png" width="180" alt="Telegram — канал с работами / Work channel"></a>
-<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-supplied.png" width="180" alt="Instagram — @xgxsoul_kartaviyx"></a>
-<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-supplied.png" width="180" alt="TikTok — фотографии / Photography"></a>
+<a href="https://t.me/soulamigo"><img src="assets/social-work-final.png" width="180" alt="Telegram — канал с работами / Work channel"></a>
+<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-final.png" width="180" alt="Instagram — @xgxsoul_kartaviyx"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-final.png" width="180" alt="TikTok — фотографии / Photography"></a>
 </p>
 
 ## Welcome, I'm SoulArt / KRTY || Maria 👋
@@ -28,13 +28,13 @@ I work in design, create all kinds of things and refine every project into somet
 
 Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
 
-**Contact me:** [@designerpooh](https://t.me/designerpooh)  
+**Contact me:** [@designeramigo](https://t.me/designeramigo)  
 **My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
 **Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 <p align="center">
 <a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/cta-work-bilingual.png" width="240" height="56" alt="Посмотреть работы / View my work"></a>
-<a href="https://t.me/designerpooh"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
+<a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
 </p>
 
 ## Design services / Направления
@@ -132,7 +132,7 @@ Composition, typography, color, visual identity and digital design. Practical wo
 
 Have a brand, publication or visual project in mind? Tell me about it.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designerpooh) · [Email](mailto:xghostxsoulx@gmail.com)
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
 
 ---
 
