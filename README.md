@@ -6,11 +6,14 @@
 <p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
 
 <p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/contact-behance.svg" width="144" height="36" alt="Behance — portfolio"></a>
-<a href="https://t.me/designerpooh"><img src="assets/contact-telegram-logo.svg" width="144" height="36" alt="Telegram — contact @designerpooh"></a>
-<a href="https://t.me/soulamigo"><img src="assets/contact-channel.svg" width="144" height="36" alt="Telegram — my work @soulamigo"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
+<a href="https://t.me/designerpooh"><img src="assets/social-telegram-bilingual.png" width="210" height="56" alt="Telegram — Связь / Contact"></a>
+<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
+</p>
+<p align="center">
+<a href="https://t.me/soulamigo"><img src="assets/contact-channel.svg" width="144" height="36" alt="Telegram — канал с работами / Work channel"></a>
 <a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/contact-instagram.svg" width="144" height="36" alt="Instagram — @xgxsoul_kartaviyx"></a>
-<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — photography @xkartaviyx_"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/contact-tiktok.svg" width="144" height="36" alt="TikTok — фотографии / Photography"></a>
 </p>
 
 ## Welcome, I'm SoulArt / KRTY 👋
@@ -28,6 +31,21 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 **Contact me:** [@designerpooh](https://t.me/designerpooh)  
 **My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
 **Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
+
+<p align="center">
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/cta-work-bilingual.png" width="240" height="56" alt="Посмотреть работы / View my work"></a>
+<a href="https://t.me/designerpooh"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
+</p>
+
+## Design services / Направления
+
+<p align="center">
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/service-branding-bilingual.png" width="130" alt="Брендинг и айдентика / Branding & identity"></a>
+<a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><img src="assets/service-logos-bilingual.png" width="130" alt="Логотипы и знаки / Logos & symbols"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-social-bilingual.png" width="130" alt="Контент для соц. сетей / Social media content"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-print-bilingual.png" width="130" alt="Полиграфия и упаковки / Print & packaging"></a>
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/service-concepts-bilingual.png" width="130" alt="Креативные концепции / Creative concepts"></a>
+</p>
 
 ## Selected work
 
