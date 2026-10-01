@@ -1,58 +1,18 @@
 <p align="right"><a href="README.md">Русский</a> · <b>English</b></p>
 
-<p align="center"><a href="https://kartaamigo.github.io/index.en.html"><b>↗ OPEN MY PORTFOLIO — DESIGN, PROJECTS & RE: FORM</b></a></p>
+<p align="center"><a href="#work">Selected work</a> · <a href="#about">About me</a> · <a href="#services">Services</a> · <a href="#tools">Tools & skills</a> · <a href="#experience">Experience</a> · <a href="#reform">RE: FORM</a> · <a href="#contact">Contact</a></p>
 
-<a href="https://kartaamigo.github.io/index.en.html"><img src="assets/portfolio-full-en.png" width="100%" alt="SoulArt / KRTY || Maria Matveeva — complete portfolio: selected work, about me, services, tools, skills, experience, RE: FORM one-person studio and contacts. Click to open the interactive website."></a>
+<table><tr><td width="55%" valign="middle">
+<h1>SoulArt / KRTY</h1>
+<h2>Maria Matveeva</h2>
+<p><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
+<p>Turning ideas into visual stories.<br>Design with character. No boring solutions.</p>
+<p><a href="https://kartaamigo.github.io/index.en.html#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a></p>
+<p><a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
+<p><sub>RUSSIA · DESIGNING SINCE 2022</sub></p>
+</td><td width="45%" align="center"><a href="https://kartaamigo.github.io/index.en.html"><img src="assets/profile-hero-transparent.png" width="360" alt="SoulArt illustrated character — click to open the interactive portfolio"></a></td></tr></table>
 
-<p align="center"><a href="https://kartaamigo.github.io/index.en.html#projects">Selected work</a> · <a href="https://kartaamigo.github.io/index.en.html#team">RE: FORM</a> · <a href="https://kartaamigo.github.io/index.en.html#contact">Contact</a> · <a href="https://kartaamigo.github.io/">Русская версия сайта</a></p>
-
-<details>
-<summary>Text version, contacts and direct project links</summary>
-
-<img src="assets/banner.png" width="100%" alt="Maria Matveeva — graphic designer — SoulArt / KRTY">
-
-<p align="right"><b>English</b> · <a href="README.md">Русский</a></p>
-
-<h1 align="center">SoulArt / KRTY || Maria</h1>
-<p align="center"><b>GRAPHIC | MULTIDISCIPLINARY DESIGNER</b></p>
-
-<p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
-<a href="https://t.me/designeramigo"><img src="assets/social-telegram-bilingual.png" width="210" height="56" alt="Telegram — Связь / Contact"></a>
-<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
-</p>
-<p align="center">
-<a href="https://t.me/soulamigo"><img src="assets/social-work-matched.png" width="240" height="56" alt="Telegram — My work"></a>
-<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-matched.png" width="210" height="56" alt="Instagram — @xgxsoul_kartaviyx"></a>
-<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-matched.png" width="230" height="56" alt="TikTok — Photography"></a>
-</p>
-
-## Welcome, I'm SoulArt / KRTY || Maria 👋
-
-I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
-
-· **Graphic designer** — posters, covers, product cards and social media graphics.  
-· **UI/UX** — visual design for websites and apps.  
-· **Visual identity** — logos and brand visuals.  
-· **Editorial design** — magazine layouts, composition and typography.  
-· **Photographer** — events and portraits.
-
-Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
-
-**Contact me:** [@designeramigo](https://t.me/designeramigo)  
-**My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
-**Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
-
-<p align="center">
-<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/cta-work-bilingual.png" width="240" height="56" alt="Посмотреть работы / View my work"></a>
-<a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
-</p>
-
-## Design services / Направления
-
-<p align="right">
-<img src="assets/services-en.png" width="100%" alt="Social media content · Print & packaging · Creative concepts · Branding & identity · Logos & symbols · UI/UX design Websites & apps">
-</p>
+<a id="work"></a>
 
 ## Selected work
 
@@ -85,7 +45,49 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 [Explore my full portfolio →](https://www.behance.net/tuumiyurmirazh/projects)
 
-## What I work with
+<a id="about"></a>
+
+## About me
+
+I work in design, create all kinds of things and refine every project into something beautiful. If you're looking for visuals that are stylish, polished and eye-catching, you're in the right place.
+
+· **Graphic designer** — posters, covers, product cards and social media graphics.  
+· **UI/UX** — visual design for websites and apps.  
+· **Visual identity** — logos and brand visuals.  
+· **Editorial design** — magazine layouts, composition and typography.  
+· **Photographer** — events and portraits.
+
+Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
+
+**Contact me:** [@designeramigo](https://t.me/designeramigo)  
+**My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
+
+<p align="center">
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/cta-work-bilingual.png" width="240" height="56" alt="Посмотреть работы / View my work"></a>
+<a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" height="56" alt="Связаться / Get in touch"></a>
+</p>
+
+<a id="services"></a>
+
+## Services
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-social-new-bilingual.png" width="245" alt="Social media content"></a><p>Social media content</p></td>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-print-new-bilingual.png" width="245" alt="Print & packaging"></a><p>Print & packaging</p></td>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-concepts-new-bilingual.png" width="245" alt="Creative concepts"></a><p>Creative concepts</p></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-branding-new-bilingual.png" width="245" alt="Branding & identity"></a><p>Branding & identity</p></td>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-logos-new-bilingual.png" width="245" alt="Logos & symbols"></a><p>Logos & symbols</p></td>
+<td width="33%" align="center"><a href="https://t.me/designeramigo"><img src="assets/service-uiux-new-bilingual.png" width="245" alt="UI/UX design — websites & apps"></a><p>UI/UX design — websites & apps</p></td>
+</tr>
+</table>
+
+<a id="tools"></a>
+
+## Tools & skills
 
 <p align="center">
 <img src="assets/tool-illustrator-transparent.png" width="72" alt="Adobe Illustrator" title="Adobe Illustrator"> &nbsp;
@@ -119,6 +121,7 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 **Russian** — Native  
 **English** — Basic
 
+<a id="experience"></a>
 
 ## Experience & education
 
@@ -133,9 +136,58 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 **IT TOP Academy · Graphic Design · 2023–2025**  
 Composition, typography, color, visual identity and digital design. Practical work and contemporary design approaches.
 
+<a id="reform"></a>
 
+## RE: FORM — a one-person creative studio
 
-## Let's create something together
+<table><tr><td width="35%" align="center"><img src="assets/reform-studio-transparent.png" width="240" alt="RE: FORM blue bunny drawing on a tablet"></td><td valign="middle"><h3>MY TEAM — RE: FORM</h3><p><b>RE: FORM</b> is not a team in the traditional sense. It is <b>my personal project</b>, where I am the designer, developer, manager and creative driving force all at once.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="RE: FORM bunny"></p><p><b>Project member: I am the founder and sole creator.</b></p></td></tr></table>
+
+- **Role:** Project Lead, UI/UX Designer, Full-stack Developer.
+- **Team:** RE: FORM — a personal project created and developed by one person.
+- **Responsibility:** The complete product lifecycle — from concept and design to writing code and testing.
+
+### How I work
+
+I bring **design and programming** together in one process. I do not have to wait for a developer or a designer — I do everything myself. **AI (vibe coding)** helps me speed up routine tasks, generate code and debug it. This enables one person to create fully functional applications.
+
+### What this brings
+
+| Speed | Consistency |
+| :--- | :--- |
+| Decisions are made instantly, without approval chains. | Design and code work together — they are created by the same person. |
+| **Flexibility** | **Originality** |
+| I can change the direction of a project on the fly. | Every project is my vision from beginning to end. |
+
+### The RE: FORM philosophy
+
+**One person + AI = a complete studio.**
+
+- I do not just design interfaces — I **bring them to life**.
+- I do not just write code — I make it **beautiful and easy to use**.
+- My goal is to create **useful applications for everyday life** that go beyond design alone.
+
+<table><tr><td width="60%" valign="middle"><h3>RE: FORM LIFE</h3><p>An intelligent life-planning ecosystem with the AI assistant <b>EVE</b>.</p><p><b>DESIGN · CODE · AI</b></p><p><a href="https://t.me/designeramigo">Discuss the project ↗</a></p></td><td width="40%" align="center"><a href="https://kartaamigo.github.io/index.en.html#team"><img src="assets/reform-life-transparent.png" width="290" alt="RE: FORM LIFE neon blue bunny"></a></td></tr></table>
+
+**RE: FORM**  
+Your path to intentional change.  
+Design. Code. AI. All in one.  
+One idea. One person. One product.
+
+<a id="contact"></a>
+
+## Let’s create something together
+
+<p align="center">
+<a href="https://www.behance.net/tuumiyurmirazh"><img src="assets/social-behance-bilingual.png" width="240" height="56" alt="Behance — Портфолио / Portfolio"></a>
+<a href="https://t.me/designeramigo"><img src="assets/social-telegram-bilingual.png" width="210" height="56" alt="Telegram — Связь / Contact"></a>
+<a href="mailto:xghostxsoulx@gmail.com"><img src="assets/social-email-bilingual.png" width="230" height="56" alt="Email / Почта — Написать / Write to me"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/soulamigo"><img src="assets/social-work-matched.png" width="240" height="56" alt="Telegram — My work"></a>
+<a href="https://www.instagram.com/xgxsoul_kartaviyx/"><img src="assets/social-instagram-matched.png" width="210" height="56" alt="Instagram — @xgxsoul_kartaviyx"></a>
+<a href="https://www.tiktok.com/@xkartaviyx_"><img src="assets/social-tiktok-matched.png" width="230" height="56" alt="TikTok — Photography"></a>
+</p>
 
 Have a brand, publication or visual project in mind? Tell me about it.
 
@@ -145,4 +197,4 @@ Have a brand, publication or visual project in mind? Tell me about it.
 
 <p align="center"><i>Above all, live! Do not live only for grades, a salary or approval. Live so that every night you can say: “Yes, today was great!”</i></p>
 
-</details>
+<p align="center"><a href="https://kartaamigo.github.io/index.en.html"><b>Open the interactive portfolio ↗</b></a></p>
