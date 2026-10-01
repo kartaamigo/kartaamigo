@@ -138,7 +138,7 @@ Composition, typography, color, visual identity and digital design. Practical wo
 
 <a id="reform"></a>
 
-### RE: FORM — a one-person creative studio
+<p><a href="https://kartaamigo.github.io/index.en.html#team"><img src="assets/reform-heading-en.png" width="780" alt="RE: FORM — a one-person creative studio"></a></p>
 
 <img align="right" src="assets/reform-studio-transparent.png" width="210" alt="RE: FORM blue bunny drawing on a tablet">
 <h3>MY TEAM — RE: FORM</h3><p><b>RE: FORM</b> is not a team in the traditional sense. It is <b>my personal project</b>, where I am the designer, developer, manager and creative driving force all at once.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="RE: FORM bunny"></p><p><b>Project member: I am the founder and sole creator.</b></p>

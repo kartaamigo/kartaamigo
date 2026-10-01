@@ -138,7 +138,7 @@
 
 <a id="reform"></a>
 
-### RE: FORM — авторская студия одного человека
+<p><a href="https://kartaamigo.github.io/#team"><img src="assets/reform-heading-ru.png" width="780" alt="RE: FORM — авторская студия одного человека"></a></p>
 
 <img align="right" src="assets/reform-studio-transparent.png" width="210" alt="Синий заяц RE: FORM рисует на планшете">
 <h3>МОЯ КОМАНДА — RE: FORM</h3><p><b>RE: FORM</b> — это не команда в классическом смысле. Это <b>мой личный проект</b>, где я выступаю одновременно дизайнером, разработчиком, менеджером и идейным вдохновителем.</p><p><img src="assets/reform-bunny-icon.png" width="65" alt="Заяц RE: FORM"></p><p><b>Участник проекта: Я — основатель и единственный исполнитель.</b></p>
