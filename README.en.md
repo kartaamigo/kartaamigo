@@ -115,7 +115,7 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 
 ### Experience & education
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-box-en-dark.png"><img src="assets/experience-box-en-light.png" width="1000" alt="Experience; 2023 · Graphic designer · BeePro · Product cards for a website.; 2025–2026 · Photographer · College · Event and portrait photography.; Since 2026 · Graphic designer · College · Cards and visual materials."></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-box-en-dark.png"><img src="assets/experience-box-en-light.png" width="1000" alt="Experience; 2023 · Graphic designer · BeePro · Product cards for a website.; 2025-2026 · Photographer · College · Event and portrait photography.; Since 2026 · Graphic designer · College · Cards and visual materials."></picture></p>
 
 <details>
 <summary>Read the full text</summary>
@@ -123,14 +123,14 @@ Based in Russia and designing since 2022. I develop my skills through personal a
 ### Experience
 
 - **Graphic designer · BeePro · 2023** — Product cards for a website.
-- **Photographer · College · 2025–2026** — Event and portrait photography.
+- **Photographer · College · 2025-2026** — Event and portrait photography.
 - **Graphic designer · College · Since 2026** — Cards and visual materials.
 
 </details>
 
 ### Education
 
-**IT TOP Academy · Graphic Design · 2023–2025**  
+**IT TOP Academy · Graphic Design · 2023-2025**  
 Composition, typography, color, visual identity and digital design. Practical work and contemporary design approaches.
 
 <a id="reform"></a>
