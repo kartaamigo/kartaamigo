@@ -19,7 +19,7 @@
 
 <p>
 <a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-brandbook-ru-dark.png"><img src="assets/work-brandbook-ru-light.png" width="185" alt="Brand Book GxSoul/KRTY — Айдентика и руководство по визуальному стилю."></picture></a> &nbsp;
-<a href="https://www.behance.net/gallery/256292513/Demo-version-of-the-project-RE-FORM-LIFE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-reform-life-ru-dark.png"><img src="assets/work-reform-life-ru-light.png" width="185" alt="RE:FORM LIFE — Демо-версия проекта · Планирование жизни с EVE."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/256292513/Demo-version-of-the-project-RE-FORM-LIFE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-reform-life-behance-ru-dark.png"><img src="assets/work-reform-life-behance-ru-light.png" width="185" alt="RE:FORM LIFE — Демо-версия проекта · Планирование жизни с EVE."></picture></a> &nbsp;
 <a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-ru-dark.png"><img src="assets/work-portfolio-ru-light.png" width="185" alt="Portfolio Website — Сайт-портфолио · учебный проект."></picture></a> &nbsp;
 <a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-journal-ru-dark.png"><img src="assets/work-journal-ru-light.png" width="185" alt="Journal — Журнальная вёрстка и редакционный дизайн."></picture></a>
 </p>

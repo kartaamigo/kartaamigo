@@ -19,7 +19,7 @@
 
 <p>
 <a href="https://www.behance.net/gallery/246885793/Brand-Book-GxSoulKRTY"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-brandbook-en-dark.png"><img src="assets/work-brandbook-en-light.png" width="185" alt="Brand Book GxSoul/KRTY — Brand identity and brand guidelines."></picture></a> &nbsp;
-<a href="https://www.behance.net/gallery/256292513/Demo-version-of-the-project-RE-FORM-LIFE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-reform-life-en-dark.png"><img src="assets/work-reform-life-en-light.png" width="185" alt="RE:FORM LIFE — Project demo · Life planning with EVE."></picture></a> &nbsp;
+<a href="https://www.behance.net/gallery/256292513/Demo-version-of-the-project-RE-FORM-LIFE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-reform-life-behance-en-dark.png"><img src="assets/work-reform-life-behance-en-light.png" width="185" alt="RE:FORM LIFE — Project demo · Life planning with EVE."></picture></a> &nbsp;
 <a href="https://www.behance.net/gallery/251160601/Portfolio-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-portfolio-en-dark.png"><img src="assets/work-portfolio-en-light.png" width="185" alt="Portfolio Website — Portfolio website · college project."></picture></a> &nbsp;
 <a href="https://www.behance.net/gallery/229126569/Journal-Full-fledged-layout-of-the-magazine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-journal-en-dark.png"><img src="assets/work-journal-en-light.png" width="185" alt="Journal — Magazine layout and editorial design."></picture></a>
 </p>
