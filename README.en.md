@@ -10,6 +10,7 @@
 <p>Turning ideas into visual stories.<br>Design with character. No boring solutions.</p>
 <p><a href="https://kartaamigo.github.io/personal-portfolio-concept/folders.html?section=reform&amp;lang=ru"><img src="assets/cta-portfolio-bilingual.png" width="240" height="56" alt="Сайт-портфолио / Portfolio website"></a></p>
 <p><a href="https://kartaamigo.github.io/index.en.html#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a> &nbsp; <a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
+<p><b>Design channel:</b> <a href="https://t.me/soulamigo">@soulamigo ↗</a></p>
 <p><sub>RUSSIA · DESIGNING SINCE 2022</sub></p>
 <br clear="all">
 
@@ -42,7 +43,7 @@ I work in design, create all kinds of things and refine every project into somet
 Based in Russia and designing since 2022. I develop my skills through personal and academic projects and welcome creative collaborations.
 
 **Contact me:** [@designeramigo](https://t.me/designeramigo)  
-**My work on Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**Design channel:** [@soulamigo](https://t.me/soulamigo)  
 **Photography on TikTok:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 <p align="center">
@@ -196,7 +197,7 @@ One idea. One person. One product.
 
 Have a brand, publication or visual project in mind? Tell me about it.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Email](mailto:xghostxsoulx@gmail.com)
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Design channel](https://t.me/soulamigo) · [Email](mailto:xghostxsoulx@gmail.com)
 
 <p align="center"><i>Above all, live! Do not live only for grades, a salary or approval. Live so that every night you can say: “Yes, today was great!”</i></p>
 

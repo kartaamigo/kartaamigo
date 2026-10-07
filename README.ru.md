@@ -10,6 +10,7 @@
 <p>Превращаю идеи в визуальные истории.<br>Дизайн с характером. Без скучных решений.</p>
 <p><a href="https://kartaamigo.github.io/personal-portfolio-concept/folders.html?section=reform&amp;lang=ru"><img src="assets/cta-portfolio-bilingual.png" width="240" height="56" alt="Сайт-портфолио / Portfolio website"></a></p>
 <p><a href="https://kartaamigo.github.io/#projects"><img src="assets/cta-work-bilingual.png" width="240" alt="View my work / Смотреть работы"></a> &nbsp; <a href="https://t.me/designeramigo"><img src="assets/cta-contact-bilingual.png" width="220" alt="Get in touch / Связаться"></a></p>
+<p><b>Канал о дизайне:</b> <a href="https://t.me/soulamigo">@soulamigo ↗</a></p>
 <p><sub>РОССИЯ · В ДИЗАЙНЕ С 2022</sub></p>
 <br clear="all">
 
@@ -42,7 +43,7 @@
 В дизайне с 2022 года. Я из России, развиваю навыки через личные и учебные проекты и открыта к творческому сотрудничеству.
 
 **Связь со мной:** [@designeramigo](https://t.me/designeramigo)  
-**Мои работы в Telegram:** [@soulamigo](https://t.me/soulamigo)  
+**Канал о дизайне:** [@soulamigo](https://t.me/soulamigo)  
 **TikTok с фотографиями:** [@xkartaviyx_](https://www.tiktok.com/@xkartaviyx_) · **Instagram:** [@xgxsoul_kartaviyx](https://www.instagram.com/xgxsoul_kartaviyx/)
 
 <p align="center">
@@ -196,7 +197,7 @@
 
 Нужна айдентика, оформление издания или визуальные материалы? Расскажи о своей задаче.
 
-[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Почта](mailto:xghostxsoulx@gmail.com)
+[Behance](https://www.behance.net/tuumiyurmirazh/projects) · [Telegram](https://t.me/designeramigo) · [Канал о дизайне](https://t.me/soulamigo) · [Почта](mailto:xghostxsoulx@gmail.com)
 
 <p align="center"><i>Главное — живи! Не существуй ради оценок, зарплаты или одобрения. Живи так, чтобы каждый день, ложась спать, ты мог сказать: «Да, сегодня было круто!»</i></p>
 
